@@ -2,7 +2,7 @@
 
 一个蒟蒻
 
-洛谷: jsqdsg
+洛谷: 778847
 
 codeforces: jsqdsg
 
