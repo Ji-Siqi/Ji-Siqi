@@ -6,8 +6,6 @@
 
 codeforces: jsqdsg
 
-github: jsqdsg
-
 Microsoft: Ji_Siqi@outlook.com	&&	jsqdsg@outlook.com
 
 gmail: deserverest2@gmail.com
