@@ -10,4 +10,4 @@ Microsoft: Ji_Siqi@outlook.com	&&	jsqdsg@outlook.com
 
 gmail: deserverest2@gmail.com
 
-Blog: ji-siqi.github.io
+Blog: (ji-siqi.github.io)[ji-siqi.github.io]
